@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: lightgray;
+}
+
+.content{
+    display: flex;
+    max-height: 400px;
+    margin: 40px;
+}
+
+.text{
+    margin-top: 40px;
+}
+
+
+
